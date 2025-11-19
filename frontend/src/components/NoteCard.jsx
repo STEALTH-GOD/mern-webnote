@@ -23,7 +23,7 @@ const NoteCard = ({note,setNotes}) => {
     return (
         <Link 
             to={`/note/${note._id}`} 
-            className="bg-base-200 p-4 rounded-lg shadow hover:shadow-md transition-shadow duration-200 border-t-4 border-b-4 border-solid border-info">
+            className="bg-base-100 p-4 rounded-lg shadow hover:shadow-md transition-shadow duration-200 border-t-4 border-b-4 border-solid border-info">
         
         <div className="card-body">
             <h3 className="card-title text-base-content">{note.title}</h3>
