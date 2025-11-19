@@ -178,29 +178,6 @@ The backend `package.json` includes a build script that automatically builds the
 | PUT | `/api/notes/:id` | Update a note |
 | DELETE | `/api/notes/:id` | Delete a note |
 
-## 🎨 Screenshots
-
-### Home Page
-![Home Page](screenshots/home.png)
-
-### Create Note
-![Create Note](screenshots/create.png)
-
-### Edit Note
-![Edit Note](screenshots/edit.png)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the ISC License.
-
-## 👤 Author
-
-Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
